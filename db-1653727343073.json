@@ -1,0 +1,86 @@
+{
+  "news": [
+    {
+      "idNew": 1,
+      "image": "Images/TCB.jpg",
+      "title": "Học sinh tiểu học Trung Quốc phải tập trung học 'tư tương Tập Cận Bình.",
+      "date": "26/02/2022",
+      "content": "Một con vịt xòe ra hai con thằn lằn con",
+      "idCategory": 1
+    },
+    {
+      "idNew": 2,
+      "image": "Images/Nga.jpg",
+      "title": " Nga xác nhận sẽ rút khỏi trạm không gian ISS từ năm 2025.",
+      "date": "26/02/2022",
+      "content": "Một con vịt xòe ra hai con thằn lằn con",
+      "idCategory": 1
+    },
+    {
+      "idNew": 3,
+      "image": "Images/Bush.jpg",
+      "title": "Vì sao cựu Tổng Thống Bush gây sốc khi cho kẹo bà Obama?",
+      "date": "26/02/2022",
+      "content": "Một con vịt xòe ra hai con thằn lằn con",
+      "idCategory": 2
+    },
+    {
+      "idNew": 4,
+      "image": "Images/Raica.jpg",
+      "title": "Rái cá mắc covid-19, nghi bị nhiễm từ nhân viên thủy cung Mỹ.",
+      "date": "26/02/2022",
+      "content": "Một con vịt xòe ra hai con thằn lằn con",
+      "idCategory": 2
+    },
+    {
+      "idNew": 5,
+      "image": "Images/TCB.jpg",
+      "title": "Học sinh tiểu học Trung Quốc phải tập trung học 'tư tương Tập Cận Bình.",
+      "date": "26/02/2022",
+      "content": "Một con vịt xòe ra hai con thằn lằn con",
+      "idCategory": 1
+    },
+    {
+      "idNew": 6,
+      "image": "Images/TCB.jpg",
+      "title": "Học sinh tiểu học Trung Quốc phải tập trung học 'tư tương Tập Cận Bình.",
+      "date": "26/02/2022",
+      "content": "Một con vịt xòe ra hai con thằn lằn con",
+      "idCategory": 2
+    },
+    {
+      "idNew": 8,
+      "image": "Images/TCB.jpg",
+      "title": "Học sinh tiểu học Trung Quốc phải tập trung học 'tư tương Tập Cận Bình.",
+      "date": "26/02/2022",
+      "content": "Một con vịt xòe ra hai con thằn lằn con",
+      "idCategory": 1
+    },
+    {
+      "idNew": 9,
+      "image": "Images/TCB.jpg",
+      "title": "Học sinh tiểu học Trung Quốc phải tập trung học 'tư tương Tập Cận Bình.",
+      "date": "26/02/2022",
+      "content": "Một con vịt xòe ra hai con thằn lằn con",
+      "idCategory": 2
+    },
+    {
+      "idNew": 10,
+      "image": "Images/TCB.jpg",
+      "title": "Học sinh tiểu học Trung Quốc phải tập trung học 'tư tương Tập Cận Bình.",
+      "date": "26/02/2022",
+      "content": "Một con vịt xòe ra hai con thằn lằn con",
+      "idCategory": 1
+    }
+  ],
+  "Category": [
+    {
+      "idCategory": 1,
+      "name": "Hot news"
+    },
+    {
+      "idCategory": 2,
+      "name": "Other news"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "image": "Images/Raica.jpg",
+      "title": "Học sinh tiểu học Trung Quốc phải tập trung học 'tư tương Tập Cận Bình.",
+      "date": "26/02/2022",
+      "content": "Với mục đích nhằm thúc đẩy lòng yêu nước và có hiệu lực từ ngày 1.4 vừa qua, quyết định trên yêu cầu các trường tiểu học, trung học cơ sở và trung học phổ thông dự kiến sẽ tập trung vào học ‘tư tưởng Tập Cận Bình’. Tư tưởng này có tên gọi đầy đủ là ‘Tư tưởng Tập Cận Bình về Chủ nghĩa xã hội đặc sắc Trung Quốc trong thời đại mới’.",
+      "comment": 0,
+      "size": "small",
+      "type": "Viet Nam"
+    },
+    {
+      "id": 2,
+      "image": "Images/Nga.jpg",
+      "title": " Nga xác nhận sẽ rút khỏi trạm không gian ISS từ năm 2025.",
+      "date": "26/02/2022",
+      "content": "Một con vịt xòe ra hai con thằn lằn con",
+      "comment": 0,
+      "size": "small",
+      "type": "Viet Nam"
+    },
+    {
+      "id": 3,
+      "image": "Images/Bush.jpg",
+      "title": "Vì sao cựu Tổng Thống Bush gây sốc khi cho kẹo bà Obama?",
+      "date": "26/02/2022",
+      "content": "Một con vịt xòe ra hai con thằn lằn con",
+      "comment": 0,
+      "size": "small",
+      "type": "Viet Nam"
+    },
+    {
+      "id": 4,
+      "image": "Images/Raica.jpg",
+      "title": "Rái cá mắc covid-19, nghi bị nhiễm từ nhân viên thủy cung Mỹ.",
+      "date": "26/02/2022",
+      "content": "Một con vịt xòe ra hai con thằn lằn con",
+      "comment": 0,
+      "size": "small",
+      "type": "Viet Nam"
+    },
+    {
+      "id": 5,
+      "image": "Images/TCB.jpg",
+      "title": "Học sinh tiểu học Trung Quốc phải tập trung học 'tư tương Tập Cận Bình.",
+      "date": "26/02/2022",
+      "content": "Tờ Nikkei Asia đưa tin chính quyền Trung Quốc đã ra lệnh cho các trường tiểu học và trung học loại bỏ các tài liệu, sách đọc",
+      "comment": 0,
+      "size": "small",
+      "type": "World"
+    },
+    {
+      "id": 6,
+      "image": "Images/TCB.jpg",
+      "title": "Học sinh tiểu học Trung Quốc phải tập trung học 'tư tương Tập Cận Bình.",
+      "date": "26/02/2022",
+      "content": "Một con vịt xòe ra hai con thằn lằn con",
+      "comment": 0,
+      "size": "small",
+      "type": "World"
+    },
+    {
+      "id": 8,
+      "image": "Images/TCB.jpg",
+      "title": "Học sinh tiểu học Trung Quốc phải tập trung học 'tư tương Tập Cận Bình.",
+      "date": "26/02/2022",
+      "content": "Một con vịt xòe ra hai con thằn lằn con",
+      "comment": 0,
+      "size": "small",
+      "type": "World"
+    },
+    {
+      "id": 9,
+      "image": "Images/TCB.jpg",
+      "title": "Học sinh tiểu học Trung Quốc phải tập trung học 'tư tương Tập Cận Bình.",
+      "date": "26/02/2022",
+      "content": "Một con vịt xòe ra hai con thằn lằn con",
+      "comment": 0,
+      "size": "large",
+      "type": "Viet Nam"
+    },
+    {
+      "id": 10,
+      "image": "Images/TCB.jpg",
+      "title": "Học sinh tiểu học Trung Quốc phải tập trung học 'tư tương Tập Cận Bình.",
+      "date": "26/02/2022",
+      "content": "Tờ Nikkei Asia đưa tin chính quyền Trung Quốc đã ra lệnh cho các trường tiểu học và trung học loại bỏ các tài liệu, sách đọc… có thể khiến học sinh tôn sùng phương Tây, đồng thời tăng cường học tập về tư tưởng của ông Tập Cận Bình - Chủ tịch nước Trung Quốc, Tổng bí thư đảng Cộng sản Trung Quốc. ",
+      "comment": 0,
+      "size": "large",
+      "type": "World"
+    },
+    {
+      "date": "30/4/2022",
+      "title": "Nguyen",
+      "image": "Images/Nga.jpg",
+      "content": "Cute pho mai que, hat me cũng nhỏ xíu",
+      "size": "small",
+      "type": "Viet Nam",
+      "id": 11
+    }
+  ]
+}
